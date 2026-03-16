@@ -1,0 +1,8 @@
+Jake Smith
+
+Skills:
+Python
+Machine Learning
+Data Analysis
+SQL
+Pandas
